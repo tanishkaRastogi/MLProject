@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Tanishka Rastogi",
+    "email": "tanishka@example.com",
+    "message": "My issue with library.",
+    "status": "In Progress"
+  },
+  {
+    "id": "337cd7b3-ef33-42cd-a6ac-b6b58b3e9ba7",
+    "name": "Sudha Rastogi",
+    "email": "rastogisudha008@gmail.com",
+    "message": "Customer support is not responding to emails.",
+    "status": "Resolved"
+  },
+  {
+    "id": "f5d990f9-8eca-44b3-8c75-4f5a22a43b9b",
+    "name": "Isha",
+    "email": "isha@yahoo.com",
+    "message": "My internet connection is unstable during lectures.",
+    "status": "Pending"
+  },
+  {
+    "id": "7b1c8250-c6f3-469c-9d16-19ae34095d05",
+    "name": "Ishan",
+    "email": "ishan6666@gmail.com",
+    "message": "I\u2019m not receiving the OTP on my phone.",
+    "status": "Pending"
+  }
+]
